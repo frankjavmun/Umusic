@@ -13,3 +13,5 @@ Directorio de C:\UmusicTestSolution
                2 dirs  41,168,076,800 bytes libres
 
 This because Products.txt is looking for in this directory.
+
+Also, the solution is using two frameworks, Xunit and MSTest. This is because Xunit showed some warnings regarding the library version; however, MSTest is running without any problem.
