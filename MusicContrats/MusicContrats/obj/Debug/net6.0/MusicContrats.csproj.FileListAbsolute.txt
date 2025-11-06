@@ -1,0 +1,15 @@
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\bin\Debug\net6.0\MusicContrats.exe
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\bin\Debug\net6.0\MusicContrats.deps.json
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\bin\Debug\net6.0\MusicContrats.runtimeconfig.json
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\bin\Debug\net6.0\MusicContrats.dll
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\bin\Debug\net6.0\MusicContrats.pdb
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\MusicContrats.csproj.AssemblyReference.cache
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\MusicContrats.GeneratedMSBuildEditorConfig.editorconfig
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\MusicContrats.AssemblyInfoInputs.cache
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\MusicContrats.AssemblyInfo.cs
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\MusicContrats.csproj.CoreCompileInputs.cache
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\MusicContrats.dll
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\refint\MusicContrats.dll
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\MusicContrats.pdb
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\MusicContrats.genruntimeconfig.cache
+C:\UmusicTestSolutionLinQ\MusicContrats\MusicContrats\obj\Debug\net6.0\ref\MusicContrats.dll
